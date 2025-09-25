@@ -1,4 +1,4 @@
-![Suresh Chand Banner](https://raw.githubusercontent.com/suresh-1001/suresh-1001/main/banner.png)
+![Suresh Chand Banner](https://raw.githubusercontent.com/suresh-1001/suresh-1001/main/banner2.png)
 
 # 🚀 Suresh Chand – Project Portfolio
 
