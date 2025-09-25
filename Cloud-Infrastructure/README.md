@@ -6,8 +6,9 @@ This section showcases deployments and infrastructure design across Azure, AWS, 
 - **OCI API Gateway Setup**  
   Secure API exposure with SSL, IAM integration, and Cloudflare.
 
-- **WordPress + MariaDB on Docker**  
+- **[WordPress + MariaDB on Docker](./docker-stack.md)**  
   Production-ready stack with reverse proxy + SSL, persistent storage, and backup strategy.
+
 
 - **Kubernetes Cluster Deployment**  
   Scalable apps deployed with container orchestration and monitoring.
