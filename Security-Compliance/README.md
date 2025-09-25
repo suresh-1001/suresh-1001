@@ -1,17 +1,17 @@
-# 🔒 Security & Compliance Projects
+# ⚡ Automation Scripts
 
-This section highlights my work in PCI DSS 4.0.1, SOC 2, HIPAA, and centralized logging pipelines.
+This section contains PowerShell, Bash, and Python scripts for IT operations and DevOps workflows.
 
 ## 🔹 Projects
-- **PCI DSS 4.0.1 Evidence Templates**  
-  Compliance-ready documentation for audits and assessments.
+- **[M365 License Audit](./M365_License_Audit.ps1)**  
+  PowerShell script to track unused/assigned licenses in Microsoft 365.
 
-- **Centralized Logging**  
-  Wazuh + Prometheus + Grafana for audit logging and monitoring.
+- **[Conditional Access Audit](./ConditionalAccess_Audit.ps1)**  
+  PowerShell script that exports Conditional Access policies for compliance evidence.
 
-- **Access Control Automation**  
-  Scripts for enforcing Conditional Access, MFA, and audit exports in Microsoft 365.
+- **[Backup Rotation Script](./BackupRotation.sh)**  
+  Bash script for daily log archiving with 7-day rotation.
 
 ---
 
-📌 Skills: PCI DSS, SOC 2, HIPAA, Wazuh, Grafana, Prometheus, PowerShell
+⭐ **Skills:** PowerShell, Bash, Python, Microsoft 365, Linux Admin
