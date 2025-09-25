@@ -1,4 +1,5 @@
-![Suresh Chand Banner](https://link-to-your-image)
+![Suresh Chand Banner](https://raw.githubusercontent.com/suresh-1001/suresh-1001/main/banner.png)
+
 # 👋 Hi, I'm Suresh Chand
 
 **IT Director | Cloud & DevOps | Security & Compliance | AI-Powered Workflows**
