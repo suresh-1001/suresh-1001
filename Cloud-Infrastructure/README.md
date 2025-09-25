@@ -10,8 +10,8 @@ This section showcases deployments and infrastructure design across Azure, AWS, 
   Production-ready stack with reverse proxy + SSL, persistent storage, and backup strategy.
 
 
-- **Kubernetes Cluster Deployment**  
-  Scalable apps deployed with container orchestration and monitoring.
+- **[Kubernetes Cluster Deployment](./k8s-deploy.sh)**  
+  Scalable app with HPA, Ingress, PDB, NetworkPolicies, and Prometheus/Grafana.
 
 ---
 
