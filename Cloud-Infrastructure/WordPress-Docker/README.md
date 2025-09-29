@@ -10,6 +10,8 @@ A minimal, secure WordPress stack with:
 ---
 
 ## 📐 Architecture
+![Architecture](./diagram.png)
+
 ```
 Client → (HTTPS / Reverse Proxy) → wordpress (php-fpm/apache) → mariadb
 ```
