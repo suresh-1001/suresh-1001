@@ -1,12 +1,12 @@
-# Linux SRE Automation Demo
+## 🔧 Linux SRE Automation Demo
+Hands-on Nutanix-aligned SRE samples:
 
-Hands-on examples for a Linux Site Reliability Engineer role:
-
-- **Health Check (Bash)** – CPU/mem/disk/load, service checks.  
-- **Log Parser (Python)** – Finds anomalies and top offenders.  
-- **Patch/Update (Bash)** – Safe package updates with pre/post checks.  
-- **Monitoring** – Prometheus scrape + Grafana dashboard.  
-- **Runbook** – docs/incident_response.md
+- Health check (Bash): [`health_check.sh`](./linux-sre-automation-demo/scripts/health_check.sh)  
+- Log parser (Python): [`log_parser.py`](./linux-sre-automation-demo/scripts/log_parser.py)  
+- Patch & verify (Bash): [`patch_update.sh`](./linux-sre-automation-demo/scripts/patch_update.sh)  
+- Prometheus config: [`prometheus.yml`](./linux-sre-automation-demo/monitoring/prometheus.yml)  
+- Grafana dashboard: [`grafana_dashboard.json`](./linux-sre-automation-demo/monitoring/grafana_dashboard.json)  
+- Runbook: [`incident_response.md`](./linux-sre-automation-demo/docs/incident_response.md)
 
 ## Quick start
 chmod +x scripts/*.sh
