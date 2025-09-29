@@ -51,6 +51,8 @@ Hands-on Nutanix-aligned SRE samples:
 
 ➡️ **Open the project:** [`linux-sre-automation-demo`](./linux-sre-automation-demo/)
 
+---
+
 ### 🤖 AI-Powered Workflows
 Building assistants and GPT-powered solutions for IT and compliance.
 - **PCI DSS GPT Assistant** – AI assistant for evidence tracking & documentation.  
