@@ -39,6 +39,18 @@ PowerShell, Bash, and Python scripts for IT operations and DevOps automation.
 
 ---
 
+## 🔧 Linux SRE Automation Demo
+Hands-on Nutanix-aligned SRE samples:
+
+- Health check (Bash): [`health_check.sh`](./linux-sre-automation-demo/scripts/health_check.sh)  
+- Log parser (Python): [`log_parser.py`](./linux-sre-automation-demo/scripts/log_parser.py)  
+- Patch & verify (Bash): [`patch_update.sh`](./linux-sre-automation-demo/scripts/patch_update.sh)  
+- Prometheus config: [`prometheus.yml`](./linux-sre-automation-demo/monitoring/prometheus.yml)  
+- Grafana dashboard: [`grafana_dashboard.json`](./linux-sre-automation-demo/monitoring/grafana_dashboard.json)  
+- Runbook: [`incident_response.md`](./linux-sre-automation-demo/docs/incident_response.md)
+
+➡️ **Open the project:** [`linux-sre-automation-demo`](./linux-sre-automation-demo/)
+
 ### 🤖 AI-Powered Workflows
 Building assistants and GPT-powered solutions for IT and compliance.
 - **PCI DSS GPT Assistant** – AI assistant for evidence tracking & documentation.  
