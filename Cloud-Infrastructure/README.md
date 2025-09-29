@@ -1,18 +1,17 @@
-# ☁️ Cloud Infrastructure Projects
+# ☁️ Cloud Infrastructure & DevOps
 
-This section showcases deployments and infrastructure design across Azure, AWS, and OCI.
+This section highlights deployments and automation projects across Azure, AWS, and OCI.
 
-## 🔹 Projects
-- **OCI API Gateway Setup**  
-  Secure API exposure with SSL, IAM integration, and Cloudflare.
+## 🔹 Featured Projects
 
-- **[WordPress + MariaDB on Docker](./docker-stack.md)**  
-  Production-ready stack with reverse proxy + SSL, persistent storage, and backup strategy.
+- **WordPress + MariaDB on Docker**  
+  Production-ready stack with reverse proxy (NGINX), SSL, persistent storage, and backup strategy.  
+  📂 [View Project](../WordPress-Docker)
 
-
-- **[Kubernetes Cluster Deployment](./k8s-deploy.sh)**  
-  Scalable app with HPA, Ingress, PDB, NetworkPolicies, and Prometheus/Grafana.
+- **Kubernetes Cluster Deployment**  
+  Scalable application setup with HPA, Ingress, PodDisruptionBudgets, and monitoring via Prometheus/Grafana.  
+  📂 [View Project](../Kubernetes-Cluster)
 
 ---
 
-📌 Skills: Azure, AWS, OCI, Docker, Kubernetes, Nginx, Cloudflare
+📌 **Skills:** Azure, AWS, OCI, Docker, Kubernetes, Terraform, Nginx, Cloudflare
