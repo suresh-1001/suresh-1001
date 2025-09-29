@@ -19,6 +19,17 @@ Infrastructure deployments and architecture work across Azure, AWS, and OCI.
 
 ---
 
+## 🌐 OCI API Gateway Demo
+Public SSL gateway in front of a private backend (with Terraform + OCI CLI).
+
+- Project folder: [`oci-api-gateway-demo`](./oci-api-gateway-demo/)
+- Terraform: [`infra/terraform`](./oci-api-gateway-demo/infra/terraform)
+- OpenAPI sample: [`samples/openapi.yaml`](./oci-api-gateway-demo/samples/openapi.yaml)
+- One-shot CLI deploy: [`scripts/deploy-cli.sh`](./oci-api-gateway-demo/scripts/deploy-cli.sh)
+- Docs: [`architecture.md`](./oci-api-gateway-demo/docs/architecture.md), [`setup_steps.md`](./oci-api-gateway-demo/docs/setup_steps.md)
+
+---
+
 ### 🔒 Security & Compliance
 Documentation and scripts supporting PCI DSS 4.0.1, SOC 2, HIPAA, and logging pipelines.
 - **PCI DSS 4.0.1 Evidence Templates** – Compliance-ready documentation.  
