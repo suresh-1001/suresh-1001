@@ -6,11 +6,11 @@ This section highlights deployments and automation projects across Azure, AWS, a
 
 - **WordPress + MariaDB on Docker**  
   Production-ready stack with reverse proxy (NGINX), SSL, persistent storage, and backup strategy.  
-  📂 [View Project](../WordPress-Docker)
+  📂 [View Project](./WordPress-Docker/)
 
 - **Kubernetes Cluster Deployment**  
   Scalable application setup with HPA, Ingress, PodDisruptionBudgets, and monitoring via Prometheus/Grafana.  
-  📂 [View Project](../Kubernetes-Cluster)
+  📂 [View Project](./Kubernetes-Cluster/)
 
 ---
 
