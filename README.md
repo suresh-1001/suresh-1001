@@ -77,6 +77,14 @@ Building assistants and GPT-powered solutions for IT and compliance.
 
 ---
 
+### 🐧 Linux Tools
+Standalone scripts and demos for Linux troubleshooting and automation.
+
+- **Linux Auto-Debug & Self-Heal** – Bash script that auto-detects OS, runs baseline checks, and applies safe remediations.  
+  📂 Repo: [linux-auto-debug](https://github.com/suresh-1001/linux-auto-debug)
+
+---
+
 ## 📫 Connect
 - 📧 Email: [suresh@echand.com](mailto:suresh@echand.com)  
 - 💼 LinkedIn: [linkedin.com/in/sureshchand01](https://www.linkedin.com/in/sureshchand01)
