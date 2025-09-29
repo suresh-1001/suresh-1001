@@ -1,0 +1,11 @@
+{
+  "title": "Linux SRE Starter",
+  "timezone": "browser",
+  "panels": [
+    { "type": "graph", "title": "CPU Load (1m)", "targets": [{ "expr": "node_load1" }], "id": 1 },
+    { "type": "graph", "title": "Memory Used (bytes)", "targets": [{ "expr": "node_memory_MemTotal_bytes - node_memory_MemAvailable_bytes" }], "id": 2 },
+    { "type": "graph", "title": "Root FS Used %", "targets": [{ "expr": "(node_filesystem_size_bytes{mountpoint=\"/\",fstype!~\"tmpfs|overlay\"}-node_filesystem_free_bytes{mountpoint=\"/\",fstype!~\"tmpfs|overlay\"}) / node_filesystem_size_bytes{mountpoint=\"/\",fstype!~\"tmpfs|overlay\"} * 100" }], "id": 3 }
+  ],
+  "schemaVersion": 38,
+  "version": 1
+}

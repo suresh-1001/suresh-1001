@@ -1,15 +1,15 @@
 # Linux SRE Automation Demo
 
 Hands-on examples for a Linux Site Reliability Engineer role:
-- **Health Check (Bash)**: CPU/mem/disk/load, process & service sanity checks.
-- **Log Parser (Python)**: Scans system logs for anomalies & summarizes spikes.
-- **Patch/Update (Bash)**: Safe OS updates with pre/post verification & rollback hint.
-- **Monitoring**: Prometheus scrape config + Grafana dashboard JSON (Node Exporter).
+
+- **Health Check (Bash)** – CPU/mem/disk/load, service checks.  
+- **Log Parser (Python)** – Finds anomalies and top offenders.  
+- **Patch/Update (Bash)** – Safe package updates with pre/post checks.  
+- **Monitoring** – Prometheus scrape + Grafana dashboard.  
+- **Runbook** – docs/incident_response.md
 
 ## Quick start
-```bash
-git clone https://github.com/<you>/linux-sre-automation-demo.git
-cd linux-sre-automation-demo
 chmod +x scripts/*.sh
-
-
+./scripts/health_check.sh
+python3 scripts/log_parser.py --since "2 hours ago"
+sudo ./scripts/patch_update.sh
