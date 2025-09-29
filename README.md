@@ -9,9 +9,9 @@ Each section has its own folder with documentation, scripts, and case studies.
 
 ## 📂 Project Categories
 
-### ☁️ Cloud Infrastructure
-Infrastructure deployments and architecture work across Azure, AWS, and OCI.
-- **OCI API Gateway Setup** – Secure API exposure with SSL, IAM integration, and Cloudflare.  
+### ☁️ Cloud Infrastructure & DevOps
+Deployments and platform automation across Azure, AWS, and OCI.
+
 - **WordPress + MariaDB on Docker** – Production-ready stack with reverse proxy + SSL.  
 - **Kubernetes Cluster Deployment** – Scalable apps with container orchestration.  
 
