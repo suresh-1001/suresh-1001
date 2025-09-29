@@ -56,4 +56,3 @@ Building assistants and GPT-powered solutions for IT and compliance.
 ---
 
 ⭐ Explore each section for detailed **case studies, code samples, and documentation**.
-
