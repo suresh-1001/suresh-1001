@@ -81,7 +81,7 @@ Building assistants and GPT-powered solutions for IT and compliance.
 Standalone scripts and demos for Linux troubleshooting and automation.
 
 - **Linux Auto-Debug & Self-Heal** – Bash script that auto-detects OS, runs baseline checks, and applies safe remediations.  
-  📂 Repo: [linux-auto-debug](https://github.com/suresh-1001/linux-auto-debug)
+  📂 Folder: [linux-auto-debug](https://github.com/suresh-1001/linux-auto-debug)
 
 ---
 
