@@ -4,15 +4,6 @@ This section focuses on building GPT-powered assistants and AI-driven workflows 
 
 ## 📂 Projects
 
-- **[PCI DSS GPT Assistant](../Security-Compliance/)**  
-  AI assistant for evidence tracking and compliance documentation.
-
-- **[AI Content Workflow](../Automation-Scripts/)**  
-  Structured pipeline from prompt → draft → polished content.
-
-- **[Compliance Automation GPT](../Security-Compliance/)**  
-  Bridging AI automation with IT governance and security.
-
 - **[AI Log Summarizer](./ai-log-summarizer/)**  
   Workflow that ingests raw logs, summarizes critical issues, and generates compliance-ready reports.
 
