@@ -1,0 +1,4 @@
+Sep 29 10:22:11 server sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Sep 29 10:25:45 server kernel: disk sda1 running out of space
+Sep 29 10:28:03 server systemd[1]: nginx.service: Main process exited, code=exited, status=1/FAILURE
+Sep 29 10:28:03 server systemd[1]: nginx.service: Failed with result 'exit-code'.
