@@ -2,16 +2,16 @@
 
 This section focuses on building GPT-powered assistants and AI-driven workflows for IT and compliance.
 
-## 📂 Projects
+## 📂 Project
 
-- **[AI Log Summarizer](./ai-log-summarizer/)**  
+- **[AI Log Summarizer](.)**  
   Workflow that ingests raw logs, summarizes critical issues, and generates compliance-ready reports.
 
 ---
 
 ## 🖥️ Demo Screenshot
 
-![AI Log Summarizer Demo](./ai-log-summarizer/demo.png)
+![AI Log Summarizer Demo](./demo.png)
 
 
 Running the script on `sample_syslog.log`:
