@@ -4,7 +4,7 @@ This section focuses on building GPT-powered assistants and AI-driven workflows 
 
 ## 📂 Project
 
-- **[AI Log Summarizer](.)**  
+- **AI Log Summarizer**  
   Workflow that ingests raw logs, summarizes critical issues, and generates compliance-ready reports.
 
 ---
