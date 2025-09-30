@@ -67,23 +67,24 @@ Hands-on Nutanix-aligned SRE samples:
 
 ---
 
-# 🤖 AI-Powered Workflows
+## 🧠 AI-Powered Workflows
 
-This section focuses on building GPT-powered assistants and AI-driven workflows for IT and compliance.
+- **PCI DSS GPT Assistant**  
+  AI assistant for evidence tracking and compliance documentation.  
+  👉 https://github.com/suresh-1001/suresh-1001/tree/main/Security-Compliance
 
-## 📂 Projects
+- **AI Content Workflow**  
+  Structured pipeline from prompt → draft → polished content.  
+  👉 https://github.com/suresh-1001/suresh-1001/tree/main/Automation-Scripts
 
-- **[PCI DSS GPT Assistant](../Security-Compliance/)**  
-  AI assistant for evidence tracking and compliance documentation.
+- **Compliance Automation GPT**  
+  Bridging AI automation with IT governance and security.  
+  👉 https://github.com/suresh-1001/suresh-1001/tree/main/Security-Compliance
 
-- **[AI Content Workflow](../Automation-Scripts/)**  
-  Structured pipeline from prompt → draft → polished content.
+- **AI Log Summarizer**  
+  Ingest raw logs, summarize critical issues, generate compliance-ready reports.  
+  👉 https://github.com/suresh-1001/suresh-1001/tree/main/AI-Automation/ai-log-summarizer
 
-- **[Compliance Automation GPT](../Security-Compliance/)**  
-  Bridging AI automation with IT governance and security.
-
-- **[AI Log Summarizer](./ai-log-summarizer/)**  
-  Workflow that ingests raw logs, summarizes critical issues, and generates compliance-ready reports.
 
 ---
 
