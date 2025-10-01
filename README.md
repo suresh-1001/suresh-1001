@@ -9,8 +9,6 @@ Each section has its own folder with documentation, scripts, and case studies.
 
 ## 📂 Project Categories
 
-## 📂 Project Categories
-
 ### 🛠️ Tools
 Cross-platform troubleshooting and self-healing scripts.
 
