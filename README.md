@@ -90,13 +90,6 @@ Hands-on Nutanix-aligned SRE samples:
 
 📂 Folder: [`AI-Automation`](./AI-Automation)
 
----
-
-### 🐧 Linux Tools
-Standalone scripts and demos for Linux troubleshooting and automation.
-
-- **Linux Auto-Debug & Self-Heal** – Bash script that auto-detects OS, runs baseline checks, and applies safe remediations.  
-  📂 Folder: [linux-auto-debug](https://github.com/suresh-1001/linux-auto-debug)
 
 ---
 
