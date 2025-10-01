@@ -17,6 +17,10 @@ Cross-platform troubleshooting and self-healing scripts.
 
 - **Linux Auto-Debug** – Bash toolkit for Ubuntu/AlmaLinux health checks and remediation.  
   📂 Folder: [`tools/linux-auto-debug`](./tools/linux-auto-debug)
+
+- **Linux Secure Check & Hardening** – Automated audit and hardening script for Ubuntu & AlmaLinux (with rollback option).  
+  📂 Folder: [tools/linux-secure-check](tools/linux-secure-check)
+
 ---
 
 ### ☁️ Cloud Infrastructure & DevOps
