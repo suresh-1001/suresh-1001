@@ -9,6 +9,18 @@ Each section has its own folder with documentation, scripts, and case studies.
 
 ## 📂 Project Categories
 
+## 📂 Project Categories
+
+### 🛠️ Tools
+Cross-platform troubleshooting and self-healing scripts.
+
+- **Windows Auto-Debug** – PowerShell toolkit to collect logs, system health, and quick fixes.  
+  📂 Folder: [`tools/windows-auto-debug`](./tools/windows-auto-debug)
+
+- **Linux Auto-Debug** – Bash toolkit for Ubuntu/AlmaLinux health checks and remediation.  
+  📂 Folder: [`tools/linux-auto-debug`](./tools/linux-auto-debug)
+---
+
 ### ☁️ Cloud Infrastructure & DevOps
 Deployments and platform automation across Azure, AWS, and OCI.
 
