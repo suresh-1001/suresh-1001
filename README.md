@@ -19,7 +19,7 @@ Cross-platform troubleshooting and self-healing scripts.
   📂 Folder: [`tools/linux-auto-debug`](./tools/linux-auto-debug)
 
 - **Linux Secure Check & Hardening** – Automated audit and hardening script for Ubuntu & AlmaLinux (with rollback option).  
-  📂 Folder: [tools/linux-secure-check](tools/linux-secure-check)
+  📂 Folder: [`tools/linux-secure-check`](tools/linux-secure-check)
 
 ---
 
