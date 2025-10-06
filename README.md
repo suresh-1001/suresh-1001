@@ -55,15 +55,26 @@ Grafana dashboards & Prometheus configs for ops visibility.
 ---
 
 ## 🔒 Security & Compliance
-PCI DSS 4.0.1 templates, scripts, and reporting.  
+- **PCI DSS 4.0.1 templates, scripts, and reporting.**  
 🔗 https://github.com/suresh-1001/it-audit-toolkit
+
+- **PCI DSS 4.0.1 Certification Automation** — scripts + AI-assisted docs that cut audit prep by ~60%.  
+  🔗 https://github.com/suresh-1001/pci-dss-certification-automation
+
+- **Fintech Alignment (Case Study)** — ops + automation + compliance playbook for any fintech.  
+  🔗 https://github.com/suresh-1001/fintech-alignment-project
 
 ---
 
 ## 🧠 AI-Powered Workflows
-**AI Log Summarizer** – Ingest raw logs, summarize critical issues, generate compliance-ready reports.  
+- **AI Log Summarizer** – Ingest raw logs, summarize critical issues, generate compliance-ready reports.  
 🔗 https://github.com/suresh-1001/suresh-1001/tree/main/AI-Automation/ai-log-summarizer
 
+- **Automated On/Offboarding (Workspace/Intune/Slack)** — role-based provisioning with full audit trail.  
+  🔗 https://github.com/suresh-1001/hr-onboarding-automation
+
+- **Jira Service Automation** — Slack → Jira intake, auto-routing, self-service KB.  
+  🔗 https://github.com/suresh-1001/jira-service-automation
 
 ---
 
