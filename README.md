@@ -6,6 +6,13 @@ This repository is my portfolio hub, showcasing projects across **Cloud Infrastr
 Each section has its own folder with documentation, scripts, and case studies.
 
 ---
+## ⭐ Featured Projects
+- PCI DSS 4.0.1 Certification Automation → https://github.com/suresh-1001/pci-dss-certification-automation  
+- Automated On/Offboarding → https://github.com/suresh-1001/hr-onboarding-automation  
+- Jira Service Automation → https://github.com/suresh-1001/jira-service-automation  
+- Fintech Alignment (Case Study) → https://github.com/suresh-1001/fintech-alignment-project
+
+---
 
 ## 🛠️ Tools (Scripts & Automation)
 Cross-platform troubleshooting and self-healing scripts.
