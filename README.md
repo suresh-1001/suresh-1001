@@ -32,8 +32,20 @@ Cross-platform troubleshooting and self-healing scripts.
 ---
 
 ## 📂 Director’s IT Handbook
-Leadership playbooks, IT roadmaps, and vendor RFP templates.  
-🔗 https://github.com/suresh-1001/it-director-handbook
+- **Incident Response (Playbooks & RCA)** — End-to-end runbooks for alert triage, severity matrix, and root-cause analysis.  
+  🔗 https://github.com/suresh-1001/it-director-handbook/tree/main/Incident-Response
+
+- **Budgeting & Finance** — OpEx/CapEx planning model, templates, and forecasting cadence.  
+  🔗 https://github.com/suresh-1001/it-director-handbook/tree/main/Budgeting
+
+- **Roadmaps & KPIs** — Quarterly planning templates and KPI dashboard menus.  
+  🔗 https://github.com/suresh-1001/it-director-handbook/tree/main/Roadmaps
+
+- **Team Management & Career Growth** — Onboarding checklists, 1:1 templates, and career ladders.  
+  🔗 https://github.com/suresh-1001/it-director-handbook/tree/main/Team-Management
+
+- **Vendor RFPs & Scorecards** — Reusable RFP template and vendor evaluation CSV.  
+  🔗 https://github.com/suresh-1001/it-director-handbook/tree/main/RFPs
 
 ---
 
