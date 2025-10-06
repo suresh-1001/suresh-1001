@@ -1,4 +1,4 @@
-![Suresh Chand Banner](https://raw.githubusercontent.com/suresh-1001/suresh-1001/main/banner3.png)
+![Suresh Chand Banner](./assets/banner.png)
 
 # 🚀 Suresh Chand – Project Portfolio
 
@@ -7,92 +7,62 @@ Each section has its own folder with documentation, scripts, and case studies.
 
 ---
 
-## 📂 Project Categories
-
-### 🛠️ Tools
+## 🛠️ Tools (Scripts & Automation)
 Cross-platform troubleshooting and self-healing scripts.
 
 - **Windows Auto-Debug** – PowerShell toolkit to collect logs, system health, and quick fixes.  
-  📂 Folder: [`tools/windows-auto-debug`](./tools/windows-auto-debug)
+  🔗 Repo: https://github.com/suresh-1001/tools-monorepo/tree/main/windows-auto-debug
 
 - **Linux Auto-Debug** – Bash toolkit for Ubuntu/AlmaLinux health checks and remediation.  
-  📂 Folder: [`tools/linux-auto-debug`](./tools/linux-auto-debug)
+  🔗 Repo: https://github.com/suresh-1001/tools-monorepo/tree/main/linux-auto-debug
 
-- **Linux Secure Check & Hardening** – Automated audit and hardening script for Ubuntu & AlmaLinux (with rollback option).  
-  📂 Folder: [`tools/linux-secure-check`](tools/linux-secure-check)
+- **Linux Secure Check & Hardening** – Automated audit & hardening for Ubuntu/AlmaLinux.  
+  🔗 Repo: https://github.com/suresh-1001/tools-monorepo/tree/main/linux-secure-check
+
+- **M365 / Ops Scripts** – License audits, Conditional Access, backups.  
+  🔗 Repo: https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts
 
 ---
 
-### ☁️ Cloud Infrastructure & DevOps
+## 📂 Director’s IT Handbook
+Leadership playbooks, IT roadmaps, and vendor RFP templates.  
+🔗 https://github.com/suresh-1001/it-director-handbook
+
+---
+
+## ☁️ Secure Infrastructure Blueprints
 Deployments and platform automation across Azure, AWS, and OCI.
 
-- **WordPress + MariaDB on Docker** – Production-ready stack with reverse proxy + SSL.  
-- **Kubernetes Cluster Deployment** – Scalable apps with container orchestration.  
+- **WordPress + MariaDB on Docker** – Production-ready with reverse proxy + SSL.  
+  🔗 https://github.com/suresh-1001/secure-infra-blueprints/tree/main/Examples/WordPress-Docker
 
-📂 Folder: [`Cloud-Infrastructure`](./Cloud-Infrastructure)
+- **Kubernetes Cluster Deployment** – Scalable container orchestration.  
+  🔗 https://github.com/suresh-1001/secure-infra-blueprints/tree/main/Kubernetes-Cluster
 
 ---
 
 ## 🌐 OCI API Gateway Demo
-Public SSL gateway in front of a private backend (with Terraform + OCI CLI).
+Public SSL gateway in front of a private backend (Terraform + OCI CLI).
 
-- Project: [`oci-api-gateway-demo`](./oci-api-gateway-demo/)
-- **Terraform**: [`infra/terraform`](./oci-api-gateway-demo/infra/terraform/)
-  - [`providers.tf`](./oci-api-gateway-demo/infra/terraform/providers.tf)
-  - [`variables.tf`](./oci-api-gateway-demo/infra/terraform/variables.tf)
-  - [`main.tf`](./oci-api-gateway-demo/infra/terraform/main.tf)
-- **OpenAPI sample**: [`samples/openapi.yaml`](./oci-api-gateway-demo/samples/openapi.yaml)
-- **CLI deploy script**: [`scripts/deploy-cli.sh`](./oci-api-gateway-demo/scripts/deploy-cli.sh)
-- **Docs**: [`architecture.md`](./oci-api-gateway-demo/docs/architecture.md) • [`setup_steps.md`](./oci-api-gateway-demo/docs/setup_steps.md)
+🔗 Project: https://github.com/suresh-1001/secure-infra-blueprints/tree/main/OCI-API-Gateway
 
 ---
 
-### 🔒 Security & Compliance
-Documentation and scripts supporting PCI DSS 4.0.1, SOC 2, HIPAA, and logging pipelines.
-- **PCI DSS 4.0.1 Evidence Templates** – Compliance-ready documentation.  
-- **Centralized Logging** – Wazuh + Prometheus + Grafana dashboards.  
-- **Access Control Automation** – Microsoft 365 Conditional Access + MFA scripting.  
-
-📂 Folder: [`Security-Compliance`](./Security-Compliance)
+## 📊 IT Operations Dashboards
+Grafana dashboards & Prometheus configs for ops visibility.  
+🔗 https://github.com/suresh-1001/it-ops-dashboards
 
 ---
 
-### ⚡ Automation Scripts
-PowerShell, Bash, and Python scripts for IT operations and DevOps automation.
-- **M365 License Audit** – PowerShell script to track unused/assigned licenses.  
-- **Conditional Access Audit** – Automates compliance evidence gathering.  
-- **Backup Rotation Script** – Bash automation for server log backups.  
-
-📂 Folder: [`Automation-Scripts`](./Automation-Scripts)
-
----
-
-## 🔧 Linux SRE Automation Demo
-Hands-on Nutanix-aligned SRE samples:
-
-- Health check (Bash): [`health_check.sh`](./linux-sre-automation-demo/scripts/health_check.sh)  
-- Log parser (Python): [`log_parser.py`](./linux-sre-automation-demo/scripts/log_parser.py)  
-- Patch & verify (Bash): [`patch_update.sh`](./linux-sre-automation-demo/scripts/patch_update.sh)  
-- Prometheus config: [`prometheus.yml`](./linux-sre-automation-demo/monitoring/prometheus.yml)  
-- Grafana dashboard: [`grafana_dashboard.json`](./linux-sre-automation-demo/monitoring/grafana_dashboard.json)  
-- Runbook: [`incident_response.md`](./linux-sre-automation-demo/docs/incident_response.md)
-
-➡️ **Open the project:** [`linux-sre-automation-demo`](./linux-sre-automation-demo/)
+## 🔒 Security & Compliance
+PCI DSS 4.0.1 templates, scripts, and reporting.  
+🔗 https://github.com/suresh-1001/it-audit-toolkit
 
 ---
 
 ## 🧠 AI-Powered Workflows
-
-- **AI Log Summarizer**  
-  Ingest raw logs, summarize critical issues, generate compliance-ready reports.  
-  👉 https://github.com/suresh-1001/suresh-1001/tree/main/AI-Automation/ai-log-summarizer
-
-
----
-
-📌 **Skills:** GPT-4/5, Prompt Engineering, Compliance Automation, AI Workflows
-
-📂 Folder: [`AI-Automation`](./AI-Automation)
+**AI Log Summarizer** – Ingest raw logs, summarize critical issues, generate compliance-ready reports.  
+🔗 https://github.com/suresh-1001/suresh-1001/tree/main/AI-Automation/ai-log-summarizer
 
 
 ---
@@ -104,3 +74,5 @@ Hands-on Nutanix-aligned SRE samples:
 ---
 
 ⭐ Explore each section for detailed **case studies, code samples, and documentation**.
+
+![Last Updated](https://img.shields.io/github/last-commit/suresh-1001/suresh-1001?label=Last%20Updated&color=blue)
