@@ -25,6 +25,7 @@ Cross-platform troubleshooting and self-healing scripts.
   ![PCI%20DSS](https://img.shields.io/badge/PCI%20DSS-4.0.1-green)
 
   🔗 Repo: https://github.com/suresh-1001/suresh-1001/tree/main/Tools/macos-secure-management
+
   🔗 Related: [Security-Compliance Blueprints →](https://github.com/suresh-1001/secure-infra-blueprints)
 
 - **Windows Auto-Debug** – PowerShell toolkit to collect logs, system health, and quick fixes.  
