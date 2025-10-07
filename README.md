@@ -32,6 +32,9 @@ Cross-platform troubleshooting and self-healing scripts.
 ---
 
 ## 📂 Director’s IT Handbook
+- **IT Ops Control Center** — FastAPI UI + Prometheus/Grafana unifying systems, security, and automation.
+  🔗 https://github.com/suresh-1001/it-ops-control-center
+  
 - **Incident Response (Playbooks & RCA)** — End-to-end runbooks for alert triage, severity matrix, and root-cause analysis.  
   🔗 https://github.com/suresh-1001/it-director-handbook/tree/main/Incident-Response
 
