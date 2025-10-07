@@ -14,11 +14,18 @@ Each section has its own folder with documentation, scripts, and case studies.
 
 ---
 
-## 🛠️ Tools (Scripts & Automation)
+## ⚙️ Tools (Scripts & Automation)
+
 Cross-platform troubleshooting and self-healing scripts.
 
 - ** macOS Secure Management** – CIS / PCI-aligned hardening baseline, Intune MDM setup, and secure-mac.sh automation script.  
+  ![macOS](https://img.shields.io/badge/macOS-12%2B-blue)
+  ![Intune](https://img.shields.io/badge/MDM-Intune-informational)
+  ![CIS](https://img.shields.io/badge/Baseline-CIS-green)
+  ![PCI%20DSS](https://img.shields.io/badge/PCI%20DSS-4.0.1-green)
+
   🔗 Repo: https://github.com/suresh-1001/suresh-1001/tree/main/Tools/macos-secure-management
+  🔗 Related: [Security-Compliance Blueprints →](https://github.com/suresh-1001/secure-infra-blueprints)
 
 - **Windows Auto-Debug** – PowerShell toolkit to collect logs, system health, and quick fixes.  
   🔗 Repo: https://github.com/suresh-1001/tools-monorepo/tree/main/windows-auto-debug
