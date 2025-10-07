@@ -17,6 +17,9 @@ Each section has its own folder with documentation, scripts, and case studies.
 ## 🛠️ Tools (Scripts & Automation)
 Cross-platform troubleshooting and self-healing scripts.
 
+- ** macOS Secure Management** – CIS / PCI-aligned hardening baseline, Intune MDM setup, and secure-mac.sh automation script.  
+  🔗 Repo: https://github.com/suresh-1001/suresh-1001/tree/main/Tools/macos-secure-management
+
 - **Windows Auto-Debug** – PowerShell toolkit to collect logs, system health, and quick fixes.  
   🔗 Repo: https://github.com/suresh-1001/tools-monorepo/tree/main/windows-auto-debug
 
