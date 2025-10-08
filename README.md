@@ -1,4 +1,8 @@
 ![Suresh Chand Banner](./assets/banner.png)
+**Impact Snapshot**
+- 💠 Led Paynuity’s PCI DSS 4.0.1 certification—reduced evidence prep time by 60%.
+- ☁️ Deployed Azure/AWS/OCI automation stacks improving provisioning speed by 45%.
+- 🧠 Integrated AI tools (ChatGPT, Claude, Gemini) for audit doc generation and log summarization.
 
 ![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20OCI-blue)
 ![Security](https://img.shields.io/badge/Security-PCI%20DSS%204.0.1%20%7C%20CIS-green)
