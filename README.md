@@ -7,10 +7,12 @@
 - ☁️ Deployed Azure/AWS/OCI automation stacks improving provisioning speed by 45%.
 - 🧠 Integrated AI tools (ChatGPT, Claude, Gemini) for audit doc generation and log summarization.
 
-![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20OCI-blue)
-![Security](https://img.shields.io/badge/Security-PCI%20DSS%204.0.1%20%7C%20CIS-green)
-![Automation](https://img.shields.io/badge/Automation-Scripts%20%26%20Workflows-orange)
-![AI](https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Gemini-purple)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20OCI-blue" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Security-PCI%20DSS%204.0.1%20%7C%20CIS-green" alt="Security" />
+  <img src="https://img.shields.io/badge/Automation-Scripts%20%26%20Workflows-orange" alt="Automation" />
+  <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Gemini-purple" alt="AI" />
+</p>
 
 # 🚀 Suresh Chand – Project Portfolio
 
