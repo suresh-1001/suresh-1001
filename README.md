@@ -1,4 +1,6 @@
 ![Suresh Chand Banner](./assets/banner.png)
+**Navigation:** [Projects](#-featured-projects) • [Tools](#-tools) • [Playbook](#-directors-it-handbook) • [Blueprints](#-secure-infrastructure-blueprints) • [Dashboards](#-it-operations-dashboards) • [AI Workflows](#-ai-powered-workflows) • [Contact](#-contact)
+---
 **Impact Snapshot**
 - 💠 Led Paynuity’s PCI DSS 4.0.1 certification—reduced evidence prep time by 60%.
 - ☁️ Deployed Azure/AWS/OCI automation stacks improving provisioning speed by 45%.
