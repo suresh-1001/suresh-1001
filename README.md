@@ -93,6 +93,14 @@ Grafana dashboards & Prometheus configurations for operational visibility.
 - [Jira Service Automation →](https://github.com/suresh-1001/jira-service-automation)
 
 ---
+## 📂 Case Studies
+Practical, metric-driven examples of IT leadership in action.
+
+- [001 — PCI DSS Evidence Automation](https://github.com/suresh-1001/case-studies/tree/main/001-pci-evidence-automation)
+- [002 — On/Offboarding 1-Click](https://github.com/suresh-1001/case-studies/tree/main/002-onoffboarding-1click)
+- [003 — SOC Visibility (Wazuh + Prometheus)](https://github.com/suresh-1001/case-studies/tree/main/003-soc-visibility)
+
+---
 
 ## 📫 Connect
 - 📧 Email: [suresh@echand.com](mailto:suresh@echand.com)  
