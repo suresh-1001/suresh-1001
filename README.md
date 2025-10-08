@@ -8,10 +8,10 @@
 - 🧠 Integrated AI tools (ChatGPT, Claude, Gemini) for audit doc generation and log summarization.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20OCI-blue" alt="Cloud" />
-  <img src="https://img.shields.io/badge/Security-PCI%20DSS%204.0.1%20%7C%20CIS-green" alt="Security" />
-  <img src="https://img.shields.io/badge/Automation-Scripts%20%26%20Workflows-orange" alt="Automation" />
-  <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Gemini-purple" alt="AI" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20OCI-blue" alt="Cloud" style="pointer-events:none;" />
+  <img src="https://img.shields.io/badge/Security-PCI%20DSS%204.0.1%20%7C%20CIS-green" alt="Security" style="pointer-events:none;" />
+  <img src="https://img.shields.io/badge/Automation-Scripts%20%26%20Workflows-orange" alt="Automation" style="pointer-events:none;" />
+  <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Gemini-purple" alt="AI" style="pointer-events:none;" />
 </p>
 
 # 🚀 Suresh Chand – Project Portfolio
