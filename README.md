@@ -1,12 +1,14 @@
 ![Suresh Chand Banner](./assets/banner.png)
+
 **Navigation:**  
-[Featured Projects](#-featured-projects) • [Security & Compliance](#-security--compliance) • [Blueprints](https://github.com/suresh-1001/secure-infra-blueprints) • [Dashboards](https://github.com/suresh-1001/it-ops-dashboards) • [Case Studies](https://github.com/suresh-1001/case-studies)
+[Featured Projects](#-featured-projects) • [Security & Compliance](#-security--compliance) • [Blueprints](#-secure-infrastructure-blueprints) • [Dashboards](#-it-operations-dashboards) • [Case Studies](#-case-studies)
 
+---
 
-**Impact Snapshot**
-- 💠 Led Paynuity’s PCI DSS 4.0.1 certification—reduced evidence prep time by 60%.
-- ☁️ Deployed Azure/AWS/OCI automation stacks improving provisioning speed by 45%.
-- 🧠 Integrated AI tools (ChatGPT, Claude, Gemini) for audit doc generation and log summarization.
+### 💡 Impact Snapshot
+- 💠 **Led PCI DSS 4.0.1 certification** — reduced evidence prep time by **60%**
+- ☁️ **Deployed Azure / AWS / OCI automation stacks** — improved provisioning speed by **45%**
+- 🧠 **Integrated AI tools** (ChatGPT, Claude, Gemini) — for audit documentation & log summarization
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20OCI-blue" alt="Cloud" style="pointer-events:none;" />
@@ -15,10 +17,12 @@
   <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Gemini-purple" alt="AI" style="pointer-events:none;" />
 </p>
 
+---
+
 # 🚀 Suresh Chand – Project Portfolio
 
-This repository is my portfolio hub, showcasing projects across **Cloud Infrastructure, Security & Compliance, Automation Scripts, and AI-Powered Workflows**.  
-Each section has its own folder with documentation, scripts, and case studies.
+This repository is my portfolio hub, showcasing projects across **Cloud Infrastructure**, **Security & Compliance**, **Automation Scripts**, and **AI-Powered Workflows**.  
+Each section includes documentation, scripts, and case studies designed to demonstrate leadership, innovation, and hands-on implementation.
 
 ---
 
