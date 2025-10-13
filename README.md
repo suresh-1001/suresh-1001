@@ -1,6 +1,7 @@
 ![Suresh Chand Banner](./assets/banner.png)
 **Navigation:**  
-[Featured Projects](#-featured-projects) • [Tools](#-tools--automation) • [Blueprints](https://github.com/suresh-1001/secure-infra-blueprints) • [Dashboards](https://github.com/suresh-1001/it-ops-dashboards) • [Case Studies](https://github.com/suresh-1001/case-studies)
+[Featured Projects](#-featured-projects) • [Security & Compliance](#-security--compliance) • [Blueprints](https://github.com/suresh-1001/secure-infra-blueprints) • [Dashboards](https://github.com/suresh-1001/it-ops-dashboards) • [Case Studies](https://github.com/suresh-1001/case-studies)
+
 
 **Impact Snapshot**
 - 💠 Led Paynuity’s PCI DSS 4.0.1 certification—reduced evidence prep time by 60%.
