@@ -90,7 +90,10 @@ Grafana dashboards & Prometheus configurations for operational visibility.
 - [IT Audit Toolkit →](https://github.com/suresh-1001/it-audit-toolkit)
 - [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
 - [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
-
+- [PCI DSS Evidence Assistant (AI-Powered) →](https://github.com/suresh-1001/pci-dss-evidence-assistant)
+- [IT Audit Toolkit →](https://github.com/suresh-1001/it-audit-toolkit)
+- [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
+- [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
 ---
 
 ## 🧠 AI-Powered Workflows
