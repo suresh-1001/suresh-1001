@@ -88,6 +88,8 @@ Grafana dashboards & Prometheus configurations for operational visibility.
 ---
 
 ## 🔒 Security & Compliance
+> 🔒 *From full PCI DSS automation to an AI-driven assistant that reviews evidence, flags gaps, and generates audit-ready documents.*
+
 - [IT Audit Toolkit →](https://github.com/suresh-1001/it-audit-toolkit)
 - [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
 - [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
