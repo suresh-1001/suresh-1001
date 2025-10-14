@@ -101,6 +101,8 @@ Grafana dashboards & Prometheus configurations for operational visibility.
 - [IT Audit Toolkit →](https://github.com/suresh-1001/it-audit-toolkit)
 - [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
 - [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
+- [M365 Compliance Showcase →](https://github.com/suresh-1001/m365-compliance-showcase)  
+  Read-only M365 evidence exports & posture checks (NIST/CMMC) — with CI, PowerShell automation, and GitHub Actions integration.
 ---
 
 ## 🧠 AI-Powered Workflows
