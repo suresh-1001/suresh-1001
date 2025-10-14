@@ -103,6 +103,12 @@ Grafana dashboards & Prometheus configurations for operational visibility.
 - [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
 - [M365 Compliance Showcase →](https://github.com/suresh-1001/m365-compliance-showcase)  
   Read-only M365 evidence exports & posture checks (NIST/CMMC) — with CI, PowerShell automation, and GitHub Actions integration.
+  <p align="left">
+  <img src="https://img.shields.io/badge/PowerShell-7%2B-5391FE" alt="PowerShell 7" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License" />
+  <img src="https://github.com/suresh-1001/m365-compliance-showcase/actions/workflows/ci.yml/badge.svg" alt="CI Badge" />
+</p>
+
 ---
 
 ## 🧠 AI-Powered Workflows
