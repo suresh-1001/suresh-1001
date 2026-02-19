@@ -11,7 +11,7 @@ Specializing in Cloud Automation, Compliance Engineering, and Systems Reliabilit
 [Featured Projects](#featured-projects) • 
 [Security & Compliance](#security--compliance) • 
 [Secure Infrastructure Blueprints](#secure-infrastructure-blueprints) • 
-[Dashboards](#oci-api-gateway-demo) • 
+[OCI API Gateway Demo](#oci-api-gateway-demo) • 
 [Case Studies](#case-studies)
 
 ---
