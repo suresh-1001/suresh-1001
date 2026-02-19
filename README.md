@@ -35,10 +35,10 @@ Specializing in Cloud Automation, Compliance Engineering, and Systems Reliabilit
 
 ## Security & Compliance
 
-- PCI DSS Automation  
-- Compliance Evidence Generation  
-- M365 Compliance Showcase  
-- Linux Secure Check & Hardening  
+- 🛡 [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
+- 📄 [PCI DSS Evidence Assistant →](https://github.com/suresh-1001/pci-dss-evidence-assistant)
+- 🏢 [M365 Compliance Showcase →](https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts)
+- 🐧 [Linux Secure Check & Hardening →](https://github.com/suresh-1001/tools-monorepo/tree/main/linux-secure-check)
 
 ---
 
