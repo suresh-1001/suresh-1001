@@ -32,6 +32,7 @@ Each section includes documentation, scripts, and case studies designed to demon
 
 ## ⭐ Featured Projects
 - [Lab PC Infrastructure Migration & Azure Integration Blueprint →](https://github.com/suresh-1001/Lab-PC-Infrastructure-Migration-Azure-Integration-Blueprint)
+- [Secure Windows Baseline Framework →](https://github.com/suresh-1001/Secure-Windows-Baseline-Framework)
 - [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
 - [Automated On/Offboarding →](https://github.com/suresh-1001/hr-onboarding-automation)
 - [Jira Service Automation →](https://github.com/suresh-1001/jira-service-automation)
