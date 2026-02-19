@@ -18,7 +18,7 @@ Specializing in Cloud Automation, Compliance Engineering, and Systems Reliabilit
 
 ## 💡 Impact Snapshot
 
-- 💠 **Led PCI DSS 4.0.1 certification** — reduced evidence preparation time by 60%  
+- 💠 **Led enterprise PCI DSS 4.0.1 certification — reduced audit evidence preparation time by 60%
 - ☁️ **Deployed Azure / AWS / OCI automation stacks** — improved provisioning speed by 45%  
 - 🧠 **Integrated AI tools** (ChatGPT, Claude, Gemini) for audit documentation & log summarization  
 
