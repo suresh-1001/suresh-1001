@@ -1,5 +1,9 @@
 ![Suresh Chand Banner](./assets/banner.png)
 
+---
+Enterprise IT Infrastructure & Security Engineer  
+Specializing in Cloud Automation, Compliance Engineering, and Systems Reliability.
+---
 **Navigation:**  
 [Featured Projects](#-featured-projects) • [Security & Compliance](#-security--compliance) • [Blueprints](#-secure-infrastructure-blueprints) • [Dashboards](#-it-operations-dashboards) • [Case Studies](#-case-studies)
 
