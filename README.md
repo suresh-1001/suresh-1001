@@ -1,143 +1,90 @@
 ![Suresh Chand Banner](./assets/banner.png)
 
 ---
-Enterprise IT Infrastructure & Security Engineer  
+
+## Enterprise IT Infrastructure & Security Engineer  
 Specializing in Cloud Automation, Compliance Engineering, and Systems Reliability.
+
 ---
+
 **Navigation:**  
-[Featured Projects](#-featured-projects) • [Security & Compliance](#-security--compliance) • [Blueprints](#-secure-infrastructure-blueprints) • [Dashboards](#-it-operations-dashboards) • [Case Studies](#-case-studies)
+[Featured Projects](#-featured-projects) • 
+[Security & Compliance](#-security--compliance) • 
+[Blueprints](#-secure-infrastructure-blueprints) • 
+[Dashboards](#-oci-api-gateway-demo) • 
+[Case Studies](#-case-studies)
 
 ---
 
 ### 💡 Impact Snapshot
-- 💠 **Led PCI DSS 4.0.1 certification** — reduced evidence prep time by **60%**
-- ☁️ **Deployed Azure / AWS / OCI automation stacks** — improved provisioning speed by **45%**
-- 🧠 **Integrated AI tools** (ChatGPT, Claude, Gemini) — for audit documentation & log summarization
+
+- 💠 **Led PCI DSS 4.0.1 certification** — reduced evidence preparation time by 60%  
+- ☁️ **Deployed Azure / AWS / OCI automation stacks** — improved provisioning speed by 45%  
+- 🧠 **Integrated AI tools** (ChatGPT, Claude, Gemini) for audit documentation & log summarization  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20OCI-blue" alt="Cloud" style="pointer-events:none;" />
-  <img src="https://img.shields.io/badge/Security-PCI%20DSS%204.0.1%20%7C%20CIS-green" alt="Security" style="pointer-events:none;" />
-  <img src="https://img.shields.io/badge/Automation-Scripts%20%26%20Workflows-orange" alt="Automation" style="pointer-events:none;" />
-  <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Gemini-purple" alt="AI" style="pointer-events:none;" />
+<img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20OCI-blue" />
+<img src="https://img.shields.io/badge/Security-PCI%20DSS%204.0.1%20%7C%20CIS-green" />
+<img src="https://img.shields.io/badge/Automation-Scripts%20%26%20Workflows-orange" />
+<img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Gemini-purple" />
 </p>
 
 ---
 
-# 🚀 Suresh Chand – Project Portfolio
+# ⭐ Featured Projects
 
-This repository is my portfolio hub, showcasing projects across **Cloud Infrastructure**, **Security & Compliance**, **Automation Scripts**, and **AI-Powered Workflows**.  
-Each section includes documentation, scripts, and case studies designed to demonstrate leadership, innovation, and hands-on implementation.
-
----
-
-## ⭐ Featured Projects
-- [Lab PC Infrastructure Migration & Azure Integration Blueprint →](https://github.com/suresh-1001/Lab-PC-Infrastructure-Migration-Azure-Integration-Blueprint)
-- [Secure Windows Baseline Framework →](https://github.com/suresh-1001/Secure-Windows-Baseline-Framework)
-- [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
-- [Automated On/Offboarding →](https://github.com/suresh-1001/hr-onboarding-automation)
-- [Jira Service Automation →](https://github.com/suresh-1001/jira-service-automation)
-- [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
-- [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
-- [PCI DSS Evidence Assistant (AI-Powered) →](https://github.com/suresh-1001/pci-dss-evidence-assistant)
-- [Automated On/Offboarding →](https://github.com/suresh-1001/hr-onboarding-automation)
-- [Jira Service Automation →](https://github.com/suresh-1001/jira-service-automation)
-- [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
----
-
-## ⚙️ Tools (Scripts & Automation)
-Cross-platform troubleshooting and self-healing scripts.
-
-- ** macOS Secure Management** – CIS / PCI-aligned hardening baseline, Intune MDM setup, and secure-mac.sh automation script.  
-  🔗 Repo: [macOS Secure Management →](https://github.com/suresh-1001/suresh-1001/tree/main/Tools/macos-secure-management)  
-  🔗 Related: [Security-Compliance Blueprints →](https://github.com/suresh-1001/secure-infra-blueprints)
-
-- **🪟 Windows Auto-Debug** – PowerShell toolkit to collect logs, system health, and quick fixes.  
-  🔗 Repo: [Windows Auto-Debug →](https://github.com/suresh-1001/tools-monorepo/tree/main/windows-auto-debug)
-
-- **🐧 Linux Auto-Debug** – Bash toolkit for Ubuntu/AlmaLinux health checks and remediation.  
-  🔗 Repo: [Linux Auto-Debug →](https://github.com/suresh-1001/tools-monorepo/tree/main/linux-auto-debug)
-
-- **🛡️ Linux Secure Check & Hardening** – Automated CIS audit & hardening for Ubuntu/AlmaLinux.  
-  🔗 Repo: [Linux Secure Check & Hardening →](https://github.com/suresh-1001/tools-monorepo/tree/main/linux-secure-check)
-
-- **☁️ M365 / Ops Scripts** – License audits, Conditional Access, Intune automation, and backups.  
-  🔗 Repo: [M365 / Ops Scripts →](https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts)
+- 🔧 [Lab PC Infrastructure Migration & Azure Integration Blueprint →](https://github.com/suresh-1001/Lab-PC-Infrastructure-Migration-Azure-Integration-Blueprint)
+- 🔐 [Secure Windows Baseline Framework →](https://github.com/suresh-1001/Secure-Windows-Baseline-Framework)
+- 🛡 [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
+- 🤖 [PCI DSS Evidence Assistant (AI-Powered) →](https://github.com/suresh-1001/pci-dss-evidence-assistant)
 
 ---
 
-## 📂 Director’s IT Handbook
-Leadership-focused templates and automation playbooks for IT operations.
+# 🔒 Security & Compliance
 
-- [IT Ops Control Center →](https://github.com/suresh-1001/it-ops-control-center)
-- [Incident Response →](https://github.com/suresh-1001/it-director-handbook/tree/main/Incident-Response)
-- [Budgeting & Finance →](https://github.com/suresh-1001/it-director-handbook/tree/main/Budgeting)
-- [Roadmaps & KPIs →](https://github.com/suresh-1001/it-director-handbook/tree/main/Roadmaps)
-- [Team Management & Career Growth →](https://github.com/suresh-1001/it-director-handbook/tree/main/Team-Management)
-- [Vendor RFPs & Scorecards →](https://github.com/suresh-1001/it-director-handbook/tree/main/RFPs)
+- PCI DSS Automation  
+- Compliance Evidence Generation  
+- M365 Compliance Showcase  
+- Linux Secure Check & Hardening  
+- macOS Secure Management  
 
 ---
 
-## ☁️ Secure Infrastructure Blueprints
-Deployments and automation for Azure, AWS, and OCI environments.
+# ⚙️ Tools (Scripts & Automation)
+
+- 🪟 [Windows Auto-Debug →](https://github.com/suresh-1001/tools-monorepo/tree/main/windows-auto-debug)
+- 🐧 [Linux Auto-Debug →](https://github.com/suresh-1001/tools-monorepo/tree/main/linux-auto-debug)
+- 🛡 [Linux Secure Check & Hardening →](https://github.com/suresh-1001/tools-monorepo/tree/main/linux-secure-check)
+- ☁️ [M365 / Ops Scripts →](https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts)
+- 🔁 [Automated On/Offboarding →](https://github.com/suresh-1001/hr-onboarding-automation)
+- 🎫 [Jira Service Automation →](https://github.com/suresh-1001/jira-service-automation)
+
+---
+
+## 🌩 Secure Infrastructure Blueprints
+
+Deployments and automation for Azure, AWS, and OCI environments.☁️
 
 - [WordPress + MariaDB →](https://github.com/suresh-1001/secure-infra-blueprints/tree/main/Examples/WordPress-Docker)
 - [Kubernetes Cluster Deployment →](https://github.com/suresh-1001/secure-infra-blueprints/tree/main/Kubernetes-Cluster)
 
 ---
 
-## 🌐 OCI API Gateway Demo
-Public SSL gateway in front of a private backend (Terraform + OCI CLI).  
-🔗 [OCI API Gateway Demo →](https://github.com/suresh-1001/secure-infra-blueprints/tree/main/OCI-API-Gateway)
+# 🌐 OCI API Gateway Demo
+
+Public SSL gateway in front of a private backend (Terraform + OCI CLI).
+
+- 🔗 [OCI API Gateway Demo →](https://github.com/suresh-1001/secure-infra-blueprints/tree/main/OCI-API-Gateway)
 
 ---
 
-## 📊 IT Operations Dashboards
-Grafana dashboards & Prometheus configurations for operational visibility.  
-🔗 [IT Operations Dashboards →](https://github.com/suresh-1001/it-ops-dashboards)
+# 📂 Case Studies
+
+- 001 — PCI DSS Evidence Automation  
+- 002 — On/Offboarding 1-Click  
+- 003 — SOC Visibility (Wazuh + Prometheus)
 
 ---
 
-## 🔒 Security & Compliance
-> 🔒 *From full PCI DSS automation to an AI-driven assistant that reviews evidence, flags gaps, and generates audit-ready documents.*
-
-- [IT Audit Toolkit →](https://github.com/suresh-1001/it-audit-toolkit)
-- [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
-- [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
-- [PCI DSS Evidence Assistant (AI-Powered) →](https://github.com/suresh-1001/pci-dss-evidence-assistant)
-- [IT Audit Toolkit →](https://github.com/suresh-1001/it-audit-toolkit)
-- [PCI DSS 4.0.1 Certification Automation →](https://github.com/suresh-1001/pci-dss-certification-automation)
-- [Fintech Alignment (Case Study) →](https://github.com/suresh-1001/fintech-alignment-project)
-- [M365 Compliance Showcase →](https://github.com/suresh-1001/m365-compliance-showcase)  
-  Read-only M365 evidence exports & posture checks (NIST/CMMC) — with CI, PowerShell automation, and GitHub Actions integration.
-  <p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-7%2B-5391FE" alt="PowerShell 7" />
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License" />
-  <img src="https://github.com/suresh-1001/m365-compliance-showcase/actions/workflows/ci.yml/badge.svg" alt="CI Badge" />
-</p>
-
----
-
-## 🧠 AI-Powered Workflows
-- [AI Log Summarizer →](https://github.com/suresh-1001/suresh-1001/tree/main/AI-Automation/ai-log-summarizer)
-- [Automated On/Offboarding (Workspace/Intune/Slack) →](https://github.com/suresh-1001/hr-onboarding-automation)
-- [Jira Service Automation →](https://github.com/suresh-1001/jira-service-automation)
-
----
-## 📂 Case Studies
-Practical, metric-driven examples of IT leadership in action.
-
-- [001 — PCI DSS Evidence Automation](https://github.com/suresh-1001/case-studies/tree/main/001-pci-evidence-automation)
-- [002 — On/Offboarding 1-Click](https://github.com/suresh-1001/case-studies/tree/main/002-onoffboarding-1click)
-- [003 — SOC Visibility (Wazuh + Prometheus)](https://github.com/suresh-1001/case-studies/tree/main/003-soc-visibility)
-
----
-
-## 📫 Connect
-- 📧 Email: [suresh@echand.com](mailto:suresh@echand.com)  
-- 💼 LinkedIn: [linkedin.com/in/sureshchand01 →](https://www.linkedin.com/in/sureshchand01)
-
----
-
-⭐ Explore each section for detailed **case studies, code samples, and documentation**.
-
-![Last Updated](https://img.shields.io/github/last-commit/suresh-1001/suresh-1001?label=Last%20Updated&color=blue)
+📧 Email: suresh@echand.com  
+💼 LinkedIn: https://linkedin.com/in/sureshchand01
