@@ -61,9 +61,9 @@ Public SSL gateway in front of a private backend (Terraform + OCI CLI).
 
 ## Case Studies
 
-- 001 — PCI DSS Evidence Automation  
-- 002 — On/Offboarding 1-Click  
-- 003 — SOC Visibility (Wazuh + Prometheus)
+- [001 — PCI DSS Evidence Automation →](https://github.com/suresh-1001/case-studies/tree/main/001-pci-evidence-automation)
+- [002 — On/Offboarding 1-Click →](https://github.com/suresh-1001/case-studies/tree/main/002-onoffboarding-1click)
+- [003 — SOC Visibility (Wazuh + Prometheus) →](https://github.com/suresh-1001/case-studies/tree/main/003-soc-visibility)
 
 ---
 
