@@ -10,7 +10,7 @@
 
 Specializing in Cloud Automation, Compliance Engineering, and Systems Reliability.
 
-## 📍 San Jose, California &nbsp;|&nbsp; 📧 [suresh@echand.com](mailto:suresh@echand.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sureshchand01)
+📍 San Jose, California &nbsp;|&nbsp; 📧 [suresh@echand.com](mailto:suresh@echand.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sureshchand01)
 
 ---
 
