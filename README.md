@@ -2,7 +2,7 @@
 
 ---
 
-## 🟢 Available for Consulting Engagements & Contract Roles — [Book a Call](mailto:suresh@echand.com)
+
 
 ---
 
