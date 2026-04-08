@@ -80,4 +80,4 @@ I work with organisations on infrastructure architecture, compliance automation,
 - **Freelance:** Automation scripts, hardening frameworks, monitoring stacks
 - **Contract:** Director/Head of IT, Infrastructure Lead roles
 
-📧 [suresh@echand.com](mailto:suresh@echand.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sureshchand01)
+
