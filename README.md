@@ -1,83 +1,68 @@
-![Suresh Chand Banner](./assets/banner.png)
+# Hi, I'm Suresh Chand 👋
+
+**Director of IT** · San Jose, CA  
+20+ years building, securing, and operating enterprise infrastructure — from fintech to SaaS to enterprise.
+
+I'm hands-on across the full stack: identity, endpoints, Linux infrastructure, containers, monitoring, compliance, and automation. I don't just manage IT — I build it.
+
+📄 [View my case studies](https://github.com/suresh-1001/case-studies) · 💼 [LinkedIn](https://linkedin.com/in/sureshchand01) · 🌐 [Linesight Digital](https://linesightdigital.com)
 
 ---
 
+## 🔑 What I Work On
 
-
----
-
-## Enterprise IT Infrastructure & Security Engineer
-
-Specializing in Cloud Automation, Compliance Engineering, and Systems Reliability.
-
-
-
----
-
-## 💡 Impact Snapshot
-
-- 💠 **Led enterprise PCI DSS 4.0.1 certification** — reduced audit evidence preparation time by 60%
-- ☁️ **Deployed Azure / AWS / OCI automation stacks** — improved provisioning speed by 45%
-- 🧠 **Integrated AI tools** (ChatGPT, Claude, Gemini) for audit documentation & log summarization
+| Area | Tools & Technologies |
+|------|----------------------|
+| **Identity & Access** | Microsoft Entra ID · Conditional Access · MFA · Intune · Active Directory |
+| **Security & Compliance** | PCI DSS 4.0.1 · CIS Benchmarks · Kali Linux · Wazuh · Defender for Endpoint |
+| **Linux Infrastructure** | Ubuntu 22.04/24.04 · Fedora CoreOS · Docker · Podman · NGINX · FreeRADIUS |
+| **Monitoring & Observability** | Prometheus · Grafana · Alertmanager · Wazuh · Elasticsearch |
+| **Automation & Scripting** | PowerShell · Python · Microsoft Graph SDK · Butane/Ignition · systemd |
+| **Email Security** | DKIM · DMARC · SPF · OME · Exchange Online |
+| **Cloud & Networking** | Azure · OCI · Cloudflare · Hyper-V · VMware · Technitium DNS |
 
 ---
 
-## 🔐 Security & Compliance
+## 🏆 Career Highlights
 
-> PCI DSS 4.0.1 · SOC 2 · NIST · CMMC · M365 · Linux Hardening
-
-| Project | Description |
-|---|---|
-| 🛡 [PCI DSS 4.0.1 Certification Automation](https://github.com/suresh-1001/pci-dss-certification-automation) | End-to-end automation for PCI DSS evidence collection & audit prep |
-| 🤖 [PCI DSS Evidence Assistant (AI-Powered)](https://github.com/suresh-1001/pci-dss-evidence-assistant) | AI-driven documentation workflow — prompts, templates & tracker |
-| 🏢 [M365 Compliance Showcase](https://github.com/suresh-1001/m365-compliance-showcase) | Read-only M365 evidence exports & posture checks (NIST/CMMC) |
-| 🐧 [Linux Secure Check & Hardening](https://github.com/suresh-1001/tools-monorepo/tree/main/linux-secure-check) | Automated Linux baseline hardening scripts |
-
----
-
-## ☁️ Infrastructure & Automation
-
-> Azure · AWS · OCI · Terraform · Kubernetes · Puppet · VMware · Veeam
-
-| Project | Description |
-|---|---|
-| 🔧 [Lab PC Infrastructure Migration & Azure Integration](https://github.com/suresh-1001/Lab-PC-Infrastructure-Migration-Azure-Integration-Blueprint) | Enterprise migration blueprint with Azure integration |
-| 🪟 [Secure Windows Baseline Framework](https://github.com/suresh-1001/Secure-Windows-Baseline-Framework) | PowerShell-based Windows hardening & baseline enforcement |
-| 🐳 [WordPress + MariaDB (Docker)](https://github.com/suresh-1001/secure-infra-blueprints/tree/main/Examples/WordPress-Docker) | Containerised deployment with secure config |
-| ☸️ [Kubernetes Cluster Deployment](https://github.com/suresh-1001/secure-infra-blueprints/tree/main/Kubernetes-Cluster) | Production-grade K8s cluster setup |
-| 🔗 [OCI API Gateway Demo](https://github.com/suresh-1001/secure-infra-blueprints/tree/main/OCI-API-Gateway) | Public SSL gateway in front of a private backend (Terraform + OCI CLI) |
-| 📊 [IT Ops Control Center](https://github.com/suresh-1001/it-ops-control-center) | FastAPI + Prometheus/Grafana unified ops dashboard (SOC 2 friendly) |
+- ✅ Led **PCI DSS 4.0.1 certification** end-to-end — gap analysis through audit completion — at a fintech company
+- ✅ Built **automated evidence pipeline** cutting audit prep time by ~60%
+- ✅ Designed **Entra ID Conditional Access** architecture balancing security and usability at scale
+- ✅ Resolved a **company-wide email outage** caused by sensitivity label encryption misconfiguration
+- ✅ Deployed **Prometheus + Grafana + Alertmanager** stack with Telegram alerting for real-time ops visibility
+- ✅ Built **Fedora CoreOS + Podman** infrastructure using Butane → Ignition automated provisioning
+- ✅ Implemented **1-click on/offboarding** via PowerShell + Intune + Slack reducing provisioning from hours to minutes
 
 ---
 
-## 📁 Case Studies
+## 📂 Featured Repos
 
-Real-world engagements — problem, approach, and measurable outcome.
-
-| # | Case Study | Focus Area |
-|---|---|---|
-| 001 | [PCI DSS Evidence Automation](https://github.com/suresh-1001/case-studies/tree/main/001-pci-evidence-automation) | Compliance · Audit Automation |
-| 002 | [On/Offboarding 1-Click](https://github.com/suresh-1001/case-studies/tree/main/002-onoffboarding-1click) | IT Ops · Identity Management |
-| 003 | [SOC Visibility (Wazuh + Prometheus)](https://github.com/suresh-1001/case-studies/tree/main/003-soc-visibility) | Security Operations · Monitoring |
-
----
-
-## 🛠 Tech Stack
-
-**Cloud & Infra:** Azure · AWS · OCI · VMware · Veeam · Puppet · Kubernetes · Terraform  
-**Security & Compliance:** PCI DSS 4.0.1 · SOC 2 · NIST · CMMC · Active Directory · Wazuh  
-**Scripting & Automation:** PowerShell · Python · Bash · FastAPI  
-**Monitoring:** Prometheus · Grafana  
-**AI Tools:** ChatGPT · Claude · Gemini (audit docs, log summarisation, evidence workflows)
+| Repo | What It Does |
+|------|--------------|
+| [case-studies](https://github.com/suresh-1001/case-studies) | Real-world IT wins — PCI DSS automation, on/offboarding, SOC visibility |
+| [pci-dss-certification-automation](https://github.com/suresh-1001/pci-dss-certification-automation) | PowerShell/Python evidence collectors for PCI DSS 4.0.1 |
+| [pci-dss-evidence-assistant](https://github.com/suresh-1001/pci-dss-evidence-assistant) | AI-powered PCI DSS documentation workflow |
+| [linux-server-onboarding-baseline](https://github.com/suresh-1001/linux-server-onboarding-baseline) | Bash script to harden and baseline fresh Linux servers |
+| [email-authentication-audit-toolkit](https://github.com/suresh-1001/email-authentication-audit-toolkit) | SPF, DKIM, DMARC audit + DNS validation scripts |
+| [Enterprise-Infrastructure-Architecture](https://github.com/suresh-1001/Enterprise-Infrastructure-Architecture) | On-prem infrastructure playbooks — AD, Veeam, Puppet, DR |
+| [m365-intune-device-management-baseline](https://github.com/suresh-1001/m365-intune-device-management-baseline) | Intune device hardening and compliance baseline |
+| [it-ops-control-center](https://github.com/suresh-1001/it-ops-control-center) | FastAPI + Prometheus/Grafana unified IT ops dashboard |
 
 ---
 
-## 📬 Work With Me
+## 🧰 Current Stack
 
-I work with organisations on infrastructure architecture, compliance automation, and security engineering — both as a consultant and on contract.
+**Microsoft:** M365 · Entra ID · Intune · Exchange Online · SharePoint · Defender · PowerShell  
+**Linux:** Ubuntu · Fedora CoreOS · Docker · Podman · NGINX Proxy Manager · Portainer  
+**Monitoring:** Prometheus · Grafana · Alertmanager · Wazuh · Node Exporter  
+**Compliance:** PCI DSS 4.0.1 · CIS Benchmarks · DKIM/DMARC/SPF  
+**Cloud:** Azure · OCI · Cloudflare · Hyper-V  
 
-- **Consulting:** Architecture reviews, PCI/SOC compliance programs, cloud migrations
-- **Freelance:** Automation scripts, hardening frameworks, monitoring stacks
-- **Contract:** Director/Head of IT, Infrastructure Lead roles
+---
 
+## 💼 Open To
 
+- **Director of IT / Cloud Infrastructure / DevSecOps roles** — remote or hybrid, Bay Area preferred
+- **Upwork consulting** — Microsoft 365, Linux infrastructure, PCI DSS compliance, security hardening
+
+📬 suresh@echand.com · [linkedin.com/in/sureshchand01](https://linkedin.com/in/sureshchand01)
