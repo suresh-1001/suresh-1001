@@ -21,6 +21,7 @@ I'm hands-on across the full stack: identity, endpoints, Linux infrastructure, c
 | **Automation & Scripting** | PowerShell · Python · Microsoft Graph SDK · Butane/Ignition · systemd |
 | **Email Security** | DKIM · DMARC · SPF · OME · Exchange Online |
 | **Cloud & Networking** | Azure · OCI · Cloudflare · Hyper-V · VMware · Technitium DNS |
+| **Virtualization** | VMware ESXi · vSphere · Hyper-V · Proxmox |
 
 ---
 
