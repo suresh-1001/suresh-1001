@@ -57,7 +57,8 @@ I'm hands-on across the full stack: identity, endpoints, Linux infrastructure, c
 **Linux:** Ubuntu · Fedora CoreOS · Docker · Podman · NGINX Proxy Manager · Portainer  
 **Monitoring:** Prometheus · Grafana · Alertmanager · Wazuh · Node Exporter  
 **Compliance:** PCI DSS 4.0.1 · CIS Benchmarks · DKIM/DMARC/SPF  
-**Cloud:** Azure · OCI · Cloudflare · Hyper-V  
+**Cloud:** Azure · OCI · Cloudflare · Hyper-V 
+**Virtualization** | VMware ESXi · Hyper-V · Proxmox · vSphere |
 
 ---
 
