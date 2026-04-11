@@ -5,9 +5,9 @@
 
 I'm hands-on across the full stack: identity, endpoints, Linux infrastructure, containers, monitoring, compliance, and automation. I don't just manage IT — I build it.
 
+![Suresh Chand Banner](./assets/banner.png)
 📄 [View my case studies](https://github.com/suresh-1001/case-studies) · 💼 [LinkedIn](https://linkedin.com/in/sureshchand01) · 🌐 [Linesight Digital](https://linesightdigital.com)
 
-![Suresh Chand Banner](./assets/banner.png)
 ---
 
 ## 🔑 What I Work On
