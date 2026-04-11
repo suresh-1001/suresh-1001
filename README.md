@@ -20,7 +20,7 @@ I'm hands-on across the full stack: identity, endpoints, Linux infrastructure, c
 | **Monitoring & Observability** | Prometheus · Grafana · Alertmanager · Wazuh · Elasticsearch |
 | **Automation & Scripting** | PowerShell · Python · Microsoft Graph SDK · Butane/Ignition · systemd |
 | **Email Security** | DKIM · DMARC · SPF · OME · Exchange Online |
-| **Cloud & Networking** | Azure · OCI · Cloudflare · Hyper-V · VMware · Technitium DNS |
+| **Cloud & Networking** | Azure · OCI · Cloudflare · Technitium DNS |
 | **Virtualization** | VMware ESXi · vSphere · Hyper-V · Proxmox |
 
 ---
